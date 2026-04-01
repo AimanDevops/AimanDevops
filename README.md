@@ -10,7 +10,7 @@
 - 🔭 I'm currently working on **LLM's**
 - 🌱 I'm currently learning **Generative AI**
 - 👯 I'm looking to collaborate on **Gen AI automation project**
-- 🤝 I'm looking for help with **ML, NLP, Gen AI**
+- 🤝 I'm looking for help with **ML, NLP,Deep learming, Agentic AI Gen AI**
 - 👨‍💻 All of my projects are available at **[https://github.com/AimanDevops](https://github.com/AimanDevops)**
 - 📄 Know about my experience **[https://www.linkedin.com/in/aimankhan7115](https://www.linkedin.com/in/aimankhan7115)**
 - 💬 Ask me about **anything tech related**
