@@ -7,12 +7,15 @@
 
 ---
 
-- 🔭 I'm currently working on **exciting dev projects**
-- 🌱 I'm currently learning **Full Stack Development**
-- 👯 I'm looking to collaborate on **open source projects**
+- 🔭 I'm currently working on **LLM's**
+- 🌱 I'm currently learning **Generative AI**
+- 👯 I'm looking to collaborate on **Gen AI automation project**
+- 🤝 I'm looking for help with **ML, NLP, Gen AI**
+- 👨‍💻 All of my projects are available at **[https://github.com/AimanDevops](https://github.com/AimanDevops)**
+- 📄 Know about my experience **[https://www.linkedin.com/in/aimankhan7115](https://www.linkedin.com/in/aimankhan7115)**
 - 💬 Ask me about **anything tech related**
 - 📫 How to reach me: **aimankhan7115@gmail.com**
-- ⚡ Fun fact: **I love building things and solving problems!**
+- ⚡ Fun fact: **I play Badminton and Cricket!**
 
 ---
 
@@ -20,12 +23,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/aimankhan7115" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Aiman Khan" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@AimanDevops" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-  <a href="https://youtube.com/@AimanDevops" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
 
