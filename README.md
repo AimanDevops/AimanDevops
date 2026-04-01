@@ -10,7 +10,7 @@
 - 🔭 I'm currently working on **LLM's**
 - 🌱 I'm currently learning **Generative AI**
 - 👯 I'm looking to collaborate on **Gen AI automation project**
-- 🤝 I'm looking for help with **ML, NLP,Deep learming, Agentic AI Gen AI**
+- 🤝 I'm looking for help with **ML, NLP, Deep Learning, Agentic AI, Gen AI**
 - 👨‍💻 All of my projects are available at **[https://github.com/AimanDevops](https://github.com/AimanDevops)**
 - 📄 Know about my experience **[https://www.linkedin.com/in/aimankhan7115](https://www.linkedin.com/in/aimankhan7115)**
 - 💬 Ask me about **anything tech related**
@@ -47,22 +47,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
 
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AimanDevops&show_icons=true&locale=en&theme=tokyonight" alt="AimanDevops GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AimanDevops&theme=tokyonight" alt="AimanDevops GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AimanDevops&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AimanDevops Top Languages" />
 </p>
 
 ---
