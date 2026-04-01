@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**AimanDevops/AimanDevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Aiman Khan</h1>
 <h3 align="center">A passionate developer from Pakistan 🇵🇰</h3>
 
