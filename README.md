@@ -69,7 +69,21 @@
   <a href="https://www.manim.community/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Manim-Animation%20Engine-7B2FFF?style=for-the-badge&logo=python&logoColor=white" alt="Manim" height="40"/>
   </a>
-  <img src="https://img.shields.io/badge/LLaMA3-Meta%20AI-0064e0?style=for-the-badge&logo=meta&logoColor=white" alt="LLaMA3" height="40"/>
+  <a href="https://ai.meta.com/llama/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LLaMA3-Meta%20AI-0064e0?style=for-the-badge&logo=meta&logoColor=white" alt="LLaMA3" height="40"/>
+  </a>
+  <a href="https://mistral.ai/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Mistral%20AI-LLM-FF7000?style=for-the-badge&logo=mistral&logoColor=white" alt="Mistral" height="40"/>
+  </a>
+  <a href="https://ai.google.dev/gemma" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gemma-Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemma" height="40"/>
+  </a>
+  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gemini-Google%20AI-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" height="40"/>
+  </a>
+  <a href="https://anam.ai/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Anam%20AI-Digital%20Humans-FF4B8B?style=for-the-badge&logo=robot&logoColor=white" alt="Anam AI" height="40"/>
+  </a>
 </p>
 
 <h4 align="left">🗄️ Databases & Vector Stores</h4>
