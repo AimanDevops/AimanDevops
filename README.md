@@ -67,7 +67,7 @@
     <img src="https://avatars.githubusercontent.com/u/116890814?s=200&v=4" alt="Groq" width="40" height="40"/>
   </a>
   <a href="https://www.manim.community/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/cropped_logo.png" alt="Manim" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Manim-Animation%20Engine-7B2FFF?style=for-the-badge&logo=python&logoColor=white" alt="Manim" height="40"/>
   </a>
   <img src="https://img.shields.io/badge/LLaMA3-Meta%20AI-0064e0?style=for-the-badge&logo=meta&logoColor=white" alt="LLaMA3" height="40"/>
 </p>
@@ -106,7 +106,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="40"/>
   </a>
 </p>
 
