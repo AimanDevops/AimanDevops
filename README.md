@@ -45,7 +45,7 @@
     <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="Pinecone" width="40" height="40"/>
   </a>
   <a href="https://faiss.ai/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/faiss/faiss-logo.png" alt="FAISS" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/FAISS-Meta%20AI-0064e0?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" height="40"/>
   </a>
 </p>
 
