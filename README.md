@@ -28,6 +28,8 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
+
+<h4 align="left">💻 Languages</h4>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -35,17 +37,76 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+</p>
+
+<h4 align="left">🤖 AI & Machine Learning</h4>
+<p align="left">
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="40" height="40"/>
+  </a>
+</p>
+
+<h4 align="left">🦜 Generative AI & LLMs</h4>
+<p align="left">
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/>
+  </a>
+  <a href="https://groq.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/116890814?s=200&v=4" alt="Groq" width="40" height="40"/>
+  </a>
+  <a href="https://www.manim.community/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/cropped_logo.png" alt="Manim" width="40" height="40"/>
+  </a>
+  <img src="https://img.shields.io/badge/LLaMA3-Meta%20AI-0064e0?style=for-the-badge&logo=meta&logoColor=white" alt="LLaMA3" height="40"/>
+</p>
+
+<h4 align="left">🗄️ Databases & Vector Stores</h4>
+<p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
   </a>
   <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="Pinecone" width="40" height="40"/>
   </a>
   <a href="https://faiss.ai/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/FAISS-Meta%20AI-0064e0?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" height="40"/>
+  </a>
+</p>
+
+<h4 align="left">🔐 Security & Authentication</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" height="40"/>
+  <img src="https://img.shields.io/badge/BB84-Quantum%20Cryptography-6B21A8?style=for-the-badge&logo=hackthebox&logoColor=white" alt="BB84 Cryptography" height="40"/>
+</p>
+
+<h4 align="left">⚙️ DevOps & Tools</h4>
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
   </a>
 </p>
 
