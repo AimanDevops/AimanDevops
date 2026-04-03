@@ -6,9 +6,9 @@
 
 ---
 
-- 🔭 I'm currently working on **LLM's**
-- 🌱 I'm currently learning **Generative AI**
-- 👯 I'm looking to collaborate on **Gen AI automation project**
+- 🔭 I'm currently working on **LLMs & Medical Computer Vision**
+- 🌱 I'm currently learning **Generative AI & Zero-Shot Detection**
+- 👯 I'm looking to collaborate on **Gen AI & Medical AI automation projects**
 - 🤝 I'm looking for help with **ML, NLP, Deep Learning, Agentic AI, Gen AI**
 - 👨‍💻 All of my projects are available at **[https://github.com/AimanDevops](https://github.com/AimanDevops)**
 - 📄 Know about my experience **[https://www.linkedin.com/in/aimankhan7115](https://www.linkedin.com/in/aimankhan7115)**
@@ -86,6 +86,26 @@
   </a>
 </p>
 
+<!-- ✅ NEW SECTION — Added from COVID Anomaly Detection Project -->
+<h4 align="left">🏥 Medical AI & Computer Vision</h4>
+<p align="left">
+  <a href="https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/BiomedCLIP-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="BiomedCLIP" height="40"/>
+  </a>
+  <a href="https://github.com/facebookresearch/segment-anything" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SAM-Segment%20Anything-0064e0?style=for-the-badge&logo=meta&logoColor=white" alt="SAM" height="40"/>
+  </a>
+  <a href="https://github.com/mlfoundations/open_clip" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/OpenCLIP-Vision--Language-FF6B35?style=for-the-badge&logo=python&logoColor=white" alt="OpenCLIP" height="40"/>
+  </a>
+  <a href="https://scipy.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SciPy-Scientific%20Computing-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Zero--Shot-Anomaly%20Detection-00C853?style=for-the-badge&logo=python&logoColor=white" alt="Zero-Shot Detection" height="40"/>
+  </a>
+</p>
+
 <h4 align="left">🗄️ Databases & Vector Stores</h4>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -121,6 +141,10 @@
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="40"/>
+  </a>
+  <!-- ✅ NEW — Added from project (runs on Colab) -->
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Google%20Colab-Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" height="40"/>
   </a>
 </p>
 
