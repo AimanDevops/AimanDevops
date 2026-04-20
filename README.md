@@ -18,29 +18,6 @@
 
 ---
 
-## 🧠 Featured Project — CNN Architecture Comparison
-
-<p align="left">
-  A hands-on deep learning project comparing <strong>5 CNN architectures</strong> on Traffic Sign Classification and Cats vs Dogs binary classification using TensorFlow/Keras.
-</p>
-
-| Model | Task | Training Mode | Input Size |
-|---|---|---|---|
-| 🟢 LeNet-5 | Traffic Sign Classification | Scratch | 32×32 |
-| 🔵 AlexNet | Traffic Sign Classification | Scratch | 64×64 |
-| 🟣 VGG16 | Traffic Sign Classification | Transfer Learning | 64×64 |
-| 🔴 ResNet-50 | Traffic Sign Classification | Transfer Learning | 64×64 |
-| 🟡 MobileNetV2 | Traffic Sign Classification | Transfer Learning | 64×64 |
-| 🤖 Transfer Learning | Cats vs Dogs (Binary) | 2-Phase Fine-Tuning | 96×96 |
-
-**Key highlights:**
-- 📊 End-to-end pipelines: data loading → preprocessing → training → evaluation
-- 🔁 Two-phase transfer learning with frozen backbone + fine-tuning
-- 📈 Training curves, classification reports, and model checkpointing
-- 🛠️ Built with TensorFlow, Keras, OpenCV, scikit-learn on Google Colab
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/aimankhan7115" target="_blank">
