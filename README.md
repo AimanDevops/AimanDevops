@@ -7,7 +7,7 @@
 ---
 
 - 🔭 I'm currently working on **LLMs & Medical Computer Vision**
-- 🌱 I'm currently learning **Generative AI & Zero-Shot Detection**
+- 🌱 I'm currently learning **Generative AI **
 - 👯 I'm looking to collaborate on **Gen AI & Medical AI automation projects**
 - 🤝 I'm looking for help with **ML, NLP, Deep Learning, Agentic AI, Gen AI**
 - 👨‍💻 All of my projects are available at **[https://github.com/AimanDevops](https://github.com/AimanDevops)**
